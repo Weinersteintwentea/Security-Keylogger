@@ -8,12 +8,9 @@ you can also change the number of time keylogger would execute simply by changin
 Usage:-
 Step 1:-
 Install all the packages which are imported in python files.
+
 Step 2 (generates key for encryption and decryption of files):-
 Run GenerateKey.py file.
-
-
-https://user-images.githubusercontent.com/88725058/129409856-3e34391a-6924-41a0-9253-5520c6ed165a.mp4
-
 
 Step 3:-
 Run keylogger.py file.
@@ -22,9 +19,6 @@ Run keylogger.py file.
 Step 4(for decryption of files copy and paste all the encrypted file in Cryptography Folder):-
 Run DecryptFile.py file.
 
-
-
-https://user-images.githubusercontent.com/88725058/129410119-0e6fcb59-6988-4ab3-8377-1207b6a44cd1.mp4
 
 
 
