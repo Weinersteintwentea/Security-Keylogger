@@ -12,7 +12,7 @@ Install all the packages which are imported in python files.
 
 Step 2 (generates key for encryption and decryption of files):-
 Run GenerateKey.py file.
-
+``` python GenerateKey.py ```
 
 https://user-images.githubusercontent.com/88725058/129411239-0d1d6424-9699-46e0-a2a9-9650bc5913fa.mp4
 
