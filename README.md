@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/88725058/129411239-0d1d6424-9699-46e0-
 Step 3:-
 Run keylogger.py file.
 
+``` python keylogger.py ```
 
 https://user-images.githubusercontent.com/88725058/129411263-4388699a-0e5c-4561-a22c-0c0d9be66feb.mp4
 
@@ -31,6 +32,7 @@ https://user-images.githubusercontent.com/88725058/129411263-4388699a-0e5c-4561-
 Step 4(for decryption of files copy and paste all the encrypted file in Cryptography Folder):-
 Run DecryptFile.py file.
 
+``` python DecryptFile.py ```
 
 https://user-images.githubusercontent.com/88725058/129411285-9b242dc2-75f8-4b98-9f26-04eafe0d7dc0.mp4
 
